@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 今、情热が岚になって
+title: ohayo
 showtag:
 - ICPC模板
 ---
