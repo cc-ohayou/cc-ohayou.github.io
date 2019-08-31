@@ -43,6 +43,9 @@
 
 html,
 body {
+  background-image:url(/public/image/15.jpg);
+  background-repeat:no-repeat;
+  background-attachment:fixed;
   margin: 0;
   padding: 0;
 }
