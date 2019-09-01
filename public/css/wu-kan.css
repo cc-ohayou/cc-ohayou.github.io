@@ -1,7 +1,7 @@
 body{
-  background-image:url(/public/image/15.jpg);
+/*  background-image:url(/public/image/15.jpg);
   background-repeat:no-repeat;
-  background-attachment:fixed
+  background-attachment:fixed*/
 }
 pre {
   max-height: 50vh;
