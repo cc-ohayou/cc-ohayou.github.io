@@ -1,6 +1,6 @@
 body{
-  background-image:url(/public/image/15.jpg);  background-size: 100% auto;
-  background-repeat:no-repeat;  background-attachment:scroll
+/*  background-image:url(/public/image/15.jpg);  background-size: 100% auto;
+  background-repeat:no-repeat;  background-attachment:scroll*/
 }
 pre {
   max-height: 50vh;
