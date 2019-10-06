@@ -161,8 +161,8 @@ sidebar:
 #  - title: rss
 #    href: /atom.xml
 #    class: 'fas fa-rss fa-fw' # rss图标加载不了不知道为什么
-  - title: 840794748@qq.com # email
-    href: mailto:840794748@qq.com
+  - title: ohayousekai@sina.com # email
+    href: mailto:ohayousekai@sina.com
     class: 'fas fa-envelope fa-fw'
   - title: 840794748 # qq
     class: 'fab fa-qq fa-fw'
