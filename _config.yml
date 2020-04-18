@@ -153,9 +153,10 @@ katex: # KaTeX
 sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
-    img: https://avatars1.githubusercontent.com/u/22760661?s=460&v=4 # 头像的地址
+    img: http://cc-image-caoer.test.upcdn.net/20191006170032.png # 头像的地址
     info: <br>jiaqi daisiki<br>love music<br>新垣结衣<br>跑步<br>bilibili # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=80%  height=52 src="//music.163.com/outchain/player?type=2&id=27495002&auto=0&height=32"></iframe>'
+#    音乐链
+  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=80% height=52 src="//music.163.com/outchain/player?type=2&id=1430240719&auto=1&height=66"></iframe>'
 #  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=80% height=52 src="//music.163.com/outchain/player?type=2&id=423703997&auto=0&height=32"></iframe>'
   social:
 #  - title: rss
